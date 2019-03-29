@@ -5,6 +5,6 @@ require 'pry'
 def key_for_min_value(hash)
   low_key = nil 
   low_val = nil 
-  has.each do ||
+  hash.each do ||
 end
     
